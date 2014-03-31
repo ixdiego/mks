@@ -1,0 +1,35 @@
+h1 {
+	color: blue;
+}
+
+p {
+	color:black;
+}
+
+.first {
+
+	background-color: green;
+
+}
+
+.second {
+
+	color: black;
+
+}
+
+.third {
+
+	background-color: yellow;
+
+
+}
+
+em {
+	color: red;
+}
+
+u {
+	color: yellow;
+	background-color: red;
+}

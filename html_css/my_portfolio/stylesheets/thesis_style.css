@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+@import url(http://fonts.googleapis.com/css?family=Condiment|Bubbler+One);
+@import url(http://fonts.googleapis.com/css?family=Condiment|Bubbler+One|Open+Sans);
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	font-size: 10px;
+}
+a:hover {
+	color: red;
+}
+
+.patel {
+
+	font-family: 'Condiment', cursive;
+	font-style: italic;
+}
+
+h1 {
+	font-family: 'Bubbler One', sans-serif;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: 'Bubbler One', sans-serif;
+}

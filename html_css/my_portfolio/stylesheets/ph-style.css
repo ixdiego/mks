@@ -1,0 +1,207 @@
+body {
+	background-color: #babab7; 
+}
+
+
+span {
+
+font-size: 30px; 
+
+}
+
+.header {
+	font-family: Helvetica;
+	font-size: 20px;
+	color: #595b50;
+	background-color: #ddddd9;
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 2px;
+	pdding-bottom: 2px;
+	height: 54px;
+	width: 95%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 20px
+
+}
+
+.fourteen {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #357aae;
+	padding-left: 5px;
+}
+
+
+.thirteen {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #3687b8;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.twelve {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #3293c3;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.eleven {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #459eca;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.ten {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #5fadd2;
+	padding-left: 5px;
+	margin-top: -10px;
+
+
+}
+
+.nine {
+
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #75bada;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.eight {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #8cc3de;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.seven {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #22ab7f;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.six {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #e8abc2;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.five {
+font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #e798b4;
+	padding-left: 5px;
+	margin-top: -10px;
+}
+
+.four {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #e585a6;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.three {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #e2749a;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.two {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #e0648b;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.one {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #dd5680;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
+
+.zero {
+	font-family: "Helvetica Neue Light", Helvetica;
+	color: white;
+	text-align: left;
+	font-size: 10px;
+	width: 95%;
+	background-color: #da3d75;
+	padding-left: 5px;
+	margin-top: -10px;
+
+}
